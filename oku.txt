@@ -1,0 +1,2 @@
+Gazete ismi, kategori ve tarih kombinasyonlarından URL’ler oluşturup bir .txt dosyasına yazdık, tarih aralıkları girdik, belirlediğimi gazetelerden url oluşturduk
+Toplu url üretimini sağladık.
